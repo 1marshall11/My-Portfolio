@@ -1,0 +1,19 @@
+[
+    {
+      "role": "Odoo Engineer",
+      "organisation": "BeyonData",
+      "startDate": "May, 2023",
+      "endDate": "Augest 2023",
+      "experiences": ["Worked on designing   website", "Solved bugs"],
+      "imageSrc": "history/BeyonData Solutions Pvt.png"
+    },
+    {
+      "role": "Social work",
+      "organisation": "Karma Foundation",
+      "startDate": "Aug, 2021",
+      "endDate": "Aug, 2022",
+      "experiences": ["Worked on Windows 11", "Designed the control panel"],
+      "imageSrc": "history/karma_logo.png"
+    }
+
+  ]

@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Search engine",
+      "imageSrc": "projects/searchengine1.png",
+      "description": "Transforming search experiences with our project: a smart search engine powered by ChatGPT API.",
+      "skills": ["Angular","Node","OpenAI API"],
+      "demo": "https://github.com/1marshall11/search-engine",
+      "source": "https://github.com/1marshall11/search-engine"
+    },
+    {
+      "title": "Hr - Automation",
+      "imageSrc": "projects/hr.png",
+      "description":"Odoo-based HR automation with tailored modules for personalized workforce management, boosting productivity.",
+      "skills": ["Odoo", "XML", "Python"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Toy Store",
+      "imageSrc": "projects/toystore.png",
+      "description": "Craft toys at home effortlessly. Type or choose materials on hand for delightful creations. Explore the joy of making without limits.\n",
+      "skills": ["Java","SQL"],
+      "demo": "https://github.com/1marshall11/Toystore",
+      "source": "https://github.com/1marshall11/Toystore"
+    }
+  ]

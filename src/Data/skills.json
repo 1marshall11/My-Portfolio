@@ -1,0 +1,35 @@
+[
+    {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Odoo",
+      "imageSrc": "skills/odoo.png"
+    },
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html1.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+   
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Nmap",
+      "imageSrc": "skills/nmap.png"
+    },
+    {
+      "title": "Network",
+      "imageSrc": "skills/network.png"
+    }
+  ]
