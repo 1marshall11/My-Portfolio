@@ -9,7 +9,7 @@ const About = () => {
                 <img src={getImageUrl("about/a_man.png")} alt="me" className={style.aboutimg} />
             <ul className={style.aboutItems}> 
                 <li className={style.aboutItem}>
-                    <div className={style.odoo}><img src="assets\about\odoo.png" alt="odoo" /></div>
+                    <div className={style.odoo}><img src={getImageUrl("about/odoo.png")} alt="odoo" /></div>
                     <div className={style.aboutItemText}>
                         <h3>Experienced Odoo Developer</h3>
                         <p>With a solid 4-month tenure as an Odoo developer, 
@@ -19,7 +19,7 @@ const About = () => {
                     </div>
                 </li>
                 <li className={style.aboutItem}>
-                    <div className="cursorimg"><img src="assets\about\frontend.png" alt="cursor" /></div>
+                    <div className="cursorimg"><img src={getImageUrl("about/frontend.png")} alt="cursor" /></div>
                     <div className={style.aboutItemText}>
                         <h3>Passionate Frontend Developer</h3>
                         <p>Fueled by a keen interest in the captivating world of frontend development, 
@@ -29,7 +29,7 @@ const About = () => {
                     </div>
                 </li>
                 <li className={style.aboutItem}>
-                    <div className="networkimg"><img src="assets\about\network1.png" alt="network" /></div>
+                    <div className="networkimg"><img src={getImageUrl("about/network1.png")}alt="network" /></div>
                     <div className={style.aboutItemText}>
                         <h3>Cybersecurity Enthusiast with Proficient Networking Skills</h3>
                         <p>Embarking on a journey as a cybersecurity student, I possess an 
